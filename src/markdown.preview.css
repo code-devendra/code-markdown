@@ -1,0 +1,91 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+table,
+ul,
+ol {
+  margin-bottom: 15px;
+  line-height: 1.5;
+}
+
+a {
+  font-size: 17px;
+  text-decoration: none;
+  color: rgb(0, 146, 225);
+}
+
+a:hover {
+  color: rgb(0, 166, 255);
+}
+
+code {
+  display: inline-block;
+  padding: 2px 6px;
+  background-color: rgb(243, 243, 243);
+  border-radius: 3px;
+  font-family: monospace;
+}
+
+pre {
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(243, 243, 243);
+  border-radius: 5px;
+  font-family: monospace;
+}
+
+blockquote {
+  border-left: 2px solid #ccc;
+  padding-left: 10px;
+  margin-left: 10px;
+  font-style: italic;
+}
+
+/* Table styles */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+table,
+th,
+td {
+  border: 1px solid #ccc;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+}
+
+/* Horizontal Rule (hr) styles */
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 10px 0;
+}
+
+/* Unordered and Ordered list styles */
+ul,
+ol {
+  margin-left: 20px;
+  margin-bottom: 15px;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+/* Image styles */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+}
