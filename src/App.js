@@ -40,7 +40,7 @@ function App() {
   
   ## My GitHub Repository
   
-  You can check out my GitHub repository [here](https://github.com/your-username/your-repo).
+  You can check out my GitHub repository [here](https://github.com/code-devendra/code-markdown).
   
   `);
   const handleChange = (value) => {
